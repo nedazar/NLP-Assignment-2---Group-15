@@ -1,2 +1,6 @@
+simpletransformers
+scikit-learn
+torchvision
+checklist
 pandas
 numpy
